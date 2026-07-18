@@ -21,10 +21,30 @@ Passionate about building scalable backend applications and full-stack web solut
 
 ---
 
-## 🚀 Skills
+## 🚀 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,firebase,git,github,maven,postman,vscode,idea,docker,aws&perline=8" />
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven" />
+</p>
+
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,firebase" />
+</p>
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker,aws" />
 </p>
 ---
 
