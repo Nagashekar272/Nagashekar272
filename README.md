@@ -16,40 +16,124 @@ I'm passionate about designing and developing scalable backend applications and 
 
 ### 💻 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java" height="45"/> Java &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" height="45"/> JavaScript &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" height="45"/> HTML5 &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" height="45"/> CSS3
-</p>
+<h2>💻 Languages</h2>
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=java" width="55"/><br>
+<b>Java</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=js" width="55"/><br>
+<b>JavaScript</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html" width="55"/><br>
+<b>HTML5</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=css" width="55"/><br>
+<b>CSS3</b>
+</td>
+</tr>
+</table>
 
 ### ⚙️ Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring" height="45"/> Spring Boot &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=maven" height="45"/> Maven &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/> Hibernate &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square"/> Spring Data JPA
-</p>
+<h2>⚙️ Backend</h2>
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=spring" width="55"/><br>
+<b>Spring Boot</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=maven" width="55"/><br>
+<b>Maven</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/hibernate/59666C" width="55"/><br>
+<b>Hibernate</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge" height="40"/><br>
+<b>Spring Data JPA</b>
+</td>
+</tr>
+</table>
 
 ### 🗄 Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="45"/> MySQL &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase" height="45"/> Firebase
-</p>
+<h2>🗄 Database</h2>
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
+<b>MySQL</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=firebase" width="55"/><br>
+<b>Firebase</b>
+</td>
+</tr>
+</table>
 
 ### 🛠 Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git" height="45"/> Git &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="45"/> GitHub &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" height="45"/> VS Code &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=idea" height="45"/> IntelliJ IDEA &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" height="45"/> Postman &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" height="45"/> Docker &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" height="45"/> AWS
-</p>
+<h2>🛠 Tools</h2>
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="55"/><br>
+<b>Git</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br>
+<b>GitHub</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>
+<b>VS Code</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=idea" width="55"/><br>
+<b>IntelliJ IDEA</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=postman" width="55"/><br>
+<b>Postman</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=docker" width="55"/><br>
+<b>Docker</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=aws" width="55"/><br>
+<b>AWS</b>
+</td>
+
+</tr>
+</table>
+
+---
 ## 📌 Featured Projects
 
 ### 🏠 PG Finder
