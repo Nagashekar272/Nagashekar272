@@ -2,52 +2,54 @@
   <img src="github-banner.png" alt="GitHub Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Nagashekar Kummari</h1>
-<h3 align="center">Associate Software Engineer | Java Full Stack Developer</h3>
+# 👨‍💻 About Me
 
-<p align="center">
-Passionate about building scalable backend applications and full-stack web solutions using Java, Spring Boot, React.js, and MySQL.
-</p>
+I'm passionate about designing and developing scalable backend applications and modern full-stack web solutions. I enjoy solving real-world problems using Java, Spring Boot, Microservices, and React.js while continuously improving my software engineering skills.
 
----
-
-## 👨‍💻 About Me
-
-- 💼 Associate Software Engineer
-- 🌱 Currently learning **System Design**, and **Microservices**
-- 💻 Experienced in developing full-stack web applications using Java and React.js
-- 🚀 Interested in Backend Development and Cloud Technologies
-- 📍 Hyderabad, Telangana, India
+- 🚀 Building scalable REST APIs and enterprise applications
+- 🌱 Currently learning System Design, Docker, Kubernetes & AWS
+- 💡 Interested in Backend Development, Microservices and Cloud Computing
+- 🤝 Open to collaborating on Java & Spring Boot projects
 
 ---
-
 ## 🚀 Tech Stack
 
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=java" height="45"/> Java &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="45"/> JavaScript &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="45"/> HTML5 &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="45"/> CSS3
 </p>
 
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,maven" />
+  <img src="https://skillicons.dev/icons?i=spring" height="45"/> Spring Boot &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=maven" height="45"/> Maven &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/> Hibernate &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square"/> Spring Data JPA
 </p>
 
 ### 🗄 Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45"/> MySQL &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" height="45"/> Firebase
 </p>
 
 ### 🛠 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=git" height="45"/> Git &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="45"/> GitHub &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="45"/> VS Code &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=idea" height="45"/> IntelliJ IDEA &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" height="45"/> Postman &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" height="45"/> Docker &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" height="45"/> AWS
 </p>
----
-
 ## 📌 Featured Projects
 
 ### 🏠 PG Finder
