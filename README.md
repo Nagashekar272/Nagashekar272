@@ -14,7 +14,6 @@ I'm passionate about designing and developing scalable backend applications and 
 ---
 ## 🚀 Tech Stack
 
-### 💻 Languages
 
 <h2>💻 Languages</h2>
 
@@ -42,7 +41,6 @@ I'm passionate about designing and developing scalable backend applications and 
 </tr>
 </table>
 
-### ⚙️ Backend
 
 <h2>⚙️ Backend</h2>
 
@@ -70,7 +68,6 @@ I'm passionate about designing and developing scalable backend applications and 
 </tr>
 </table>
 
-### 🗄 Database
 
 <h2>🗄 Database</h2>
 
@@ -88,7 +85,6 @@ I'm passionate about designing and developing scalable backend applications and 
 </tr>
 </table>
 
-### 🛠 Tools
 
 <h2>🛠 Tools</h2>
 
